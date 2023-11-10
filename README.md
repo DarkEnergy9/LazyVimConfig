@@ -1,0 +1,2 @@
+# LazyVimConfig
+My LazyVim configuration
